@@ -14,7 +14,7 @@ This should answer what challenge of each script was in detail:
 * **4-listmorefiles** - Display current directory contents, including hidden files. Use long format.
 * **5-listfilesdigitonly** - Display current directory contents. Long format, with user adn group IDs displayed numerically, and hidden files
 * **6-firstdirectory** - Create a script that creates a directory named "my_first_directory" in the /tmp/ directory.
-* **7-movethatfile** - Move the file betty from /tmp/ to /tmp/my/_first/_directory.
+* **7-movethatfile** - Move the file betty from /tmp/ to /tmp/my_first_directory.
 * **8-firstdelete** - Delete the file betty. The file is in  /tmp/my_first_directory.
 * **9-firstdirdeletion** - Delete the directory my_first_directory that is in the /tmp directory.
 * **10-back** - Write a script that changes the working directory to the previous one.
