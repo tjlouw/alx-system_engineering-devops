@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ./iacta | cut -f 3
+head -3 ./iacta | tail +3
