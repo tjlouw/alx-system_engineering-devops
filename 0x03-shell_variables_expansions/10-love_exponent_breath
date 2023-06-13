@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($BREATH**$LOVE))\n" | cat -e
+echo -e $(($BREATH**$LOVE)) | cat -e
