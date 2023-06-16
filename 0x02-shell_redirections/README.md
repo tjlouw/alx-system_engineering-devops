@@ -5,7 +5,7 @@ title: Shell, redirections and filters
 
 ### A discription of what each script does
 
-This schould answer what the challenge of each script was in detail:
+This should answer what the challenge of each script was in detail:
 
 * **0-hello_world** - Write a script that prints “Hello, World”, followed by a new line to the standard output.
 * **1-confused_smiley** - Write a script that displays a confused smiley "(Ôo)'.
