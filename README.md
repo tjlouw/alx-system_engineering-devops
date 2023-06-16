@@ -1,6 +1,6 @@
 ---
 permalink: /bash-scripting, permissions, redirections and expansions/
-title: Bash scripting and permissions
+title: Bash scripting, permissions, redirections and expansions
 ---
 
 ### A description of what the project is for
